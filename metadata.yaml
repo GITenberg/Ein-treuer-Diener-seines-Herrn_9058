@@ -1,0 +1,24 @@
+_repo: Ein-treuer-Diener-seines-Herrn_9058
+creator:
+  author:
+    agent_name: Grillparzer, Franz
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '2585'
+    url: http://www.gutenberg.org/2009/agents/2585
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Grillparzer
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9058'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungary -- Drama'
+- !lcc 'PT'
+title: Ein treuer Diener seines Herrn
+url: http://www.gutenberg.org/ebooks/9058
